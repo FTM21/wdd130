@@ -1,3 +1,27 @@
+main {
+    max-width: 840px;
+}
+
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid rgb(0 0 0/ 0.2);
+    padding: 1rem;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+}
+
+aside img {
+    width:200px;
+    height:auto;
+}
+
+main img{
+    width: 150px;
+    height: auto;
+}
+
 nav {
     background-color: darkblue;
     padding: 10px;
@@ -6,7 +30,7 @@ nav {
 nav a {
     color: white;
     display:block;
-    padding: 20px;
+    padding: 1.2pt;
 }
 
 h1 {
@@ -14,13 +38,17 @@ h1 {
 }
 
 img {
-    width: 150px;
+    width: 150;
     height:auto;
     border:1px solid black;
-    padding:2px;
+    padding:5px;
     box-shadow: 0 0 30px gray;
 }
 
-p {
-    padding: 10px
+p { padding: 0;}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    text-align: center;
 }
