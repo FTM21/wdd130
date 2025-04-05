@@ -8,6 +8,8 @@
 
 
 body {  
+    
+    background-color: #07BEB8;
     margin: 0;  
     font-family: 'Gidole', sans-serif; 
     color: var(--secondary-color); 
