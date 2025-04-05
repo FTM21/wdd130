@@ -21,7 +21,7 @@ header {
     grid-template-columns: auto 1fr auto; 
     align-items: center;  
     padding: 20px;  
-    background-color: #fff; 
+    background-color: #07BEB8; 
 } 
 #site-logo {  
     max-width: 150px; 
