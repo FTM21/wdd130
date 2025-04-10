@@ -9,7 +9,7 @@ body {
     background-color: var(--primary-color);  
     margin: 0;  
     font-family: 'Gidole', sans-serif;   
-    color: var(--secondary-color);
+    color: var(--primary--color);
     max-width: 1200px;   
     margin-left: auto;  
     margin-right: auto;  
@@ -310,6 +310,7 @@ footer a:hover {
     font-size: 1.5rem;
     margin-top: 0;
 }
+
 
 .cta-section {
     display: grid;
